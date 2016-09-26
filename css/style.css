@@ -135,6 +135,14 @@ header nav a.active {
 	color: white;
 }
 
+#contacto p {
+	line-height: 1;
+	color: white;
+	text-align: center;
+	font-size: 24px;
+	
+}
+
 #contacto input {
 	padding: 20px;
 	width: 400px;
